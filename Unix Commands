@@ -1,0 +1,9 @@
+Basic Unix commands :
+mkdir - create directory 
+cd - change directory
+ls - list of commands
+rmdir - remove directory
+rm - remove file
+cp - copy the file
+mv - move file from one diectory to other 
+cat -  reads and displays file contents, or concatenates multiple files into one
